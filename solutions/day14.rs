@@ -1,6 +1,4 @@
 use itertools::Itertools;
-// use std::fs::OpenOptions;
-// use std::io::Write;
 
 pub fn solve() {
     let input = crate::helpers::read_file("14A");
